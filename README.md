@@ -8,6 +8,16 @@
 
 
 ## About me
+### Bio
+- **Full Name:** Nikitin Mikhail Olegovich
+- **Age:** 29 y.o.
+- **Location:** Novosibirsk, Russia
+
+### Education
+- **Bachelor's Degree in Education** - Novosibirsk State Pedagogical University, 2017
+- **Master's Degree in Education** - Novosibirsk State Pedagogical University, 2020
+- **Python Developer Course** - Yandex Practicum, 2024
+
 ### Experience
 - **2 years of experience as a business analyst.** Transitioning into IT after working as a business analyst, I bring a unique perspective that combines business insights with technical expertise.
 - **Commercial development experience since September 2023.** I am developing a gamified portal for commercial bank clients.
