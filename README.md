@@ -49,4 +49,5 @@
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/mrsunstrike-black?style=for-the-badge&logo=telegram&logoColor=FF5722)](https://t.me/MrSunstrike)
+[![Telegram](https://img.shields.io/badge/mrsunstrike-black?style=for-the-badge&logo=linkedin&logoColor=FF5722)](https://www.linkedin.com/in/mrsunstrike/)
 [![Mail](https://custom-icon-badges.demolab.com/badge/misha@mrsunstrike.ru-black?style=for-the-badge&logo=mail&logoColor=FF5722)](mailto:misha@mrsunstrike.ru)
