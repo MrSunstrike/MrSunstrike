@@ -33,7 +33,9 @@
 - ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=FF5722)
 - ![Django](https://img.shields.io/badge/Django-black?style=flat&logo=django&logoColor=FF5722)
 ![DRF](https://img.shields.io/badge/DRF-black?style=flat&logo=django&logoColor=FF5722)
-- ![telebot](https://img.shields.io/badge/telebot-black?style=flat&logo=telegram&logoColor=FF5722)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi&logoColor=FF5722)
+- ![aiogram](https://img.shields.io/badge/Aiogram-black?style=flat&logo=telegram&logoColor=FF5722)
+![telebot](https://img.shields.io/badge/telebot-black?style=flat&logo=telegram&logoColor=FF5722)
 ![python telegram bot](https://img.shields.io/badge/python__telegram__bot-black?style=flat&logo=telegram&logoColor=FF5722)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql&logoColor=FF5722)
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=flat&logo=sqlite&logoColor=FF5722)
@@ -43,6 +45,8 @@
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=FF5722)
 ![K8s](https://img.shields.io/badge/K8s-black?style=flat&logo=kubernetes&logoColor=FF5722)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=FF5722)
+![GitLab](https://img.shields.io/badge/GitLab-black?style=flat&logo=gitlab&logoColor=FF5722)
+![YouTrack](https://img.shields.io/badge/YouTrack-black?style=flat&logo=jetbrains&logoColor=FF5722)
 
 ## Statistics
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSunstrike&theme=dark)
