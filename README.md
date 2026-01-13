@@ -10,7 +10,7 @@
 ## About me
 ### Bio
 - **Full Name:** Nikitin Mikhail Olegovich
-- **Age:** 30 y.o.
+- **Age:** 31 y.o.
 - **Location:** Novosibirsk, Russia
 
 ### Education
